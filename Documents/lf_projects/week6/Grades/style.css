@@ -1,26 +1,8 @@
-
-.divide-bar {
-    width: 53%;
-    border: 1px solid black; 
+.highestRow {
+    background: green;   
 }
 
-.container {
-    width: 100%;
-    height: auto;
-    margin: auto;
+.lowestRow {
+    background: red;   
 }
 
-#display_area {
-    width: 50%;
-    position: relative;
-}
-
-.container-area span:nth-child(2) {
-    position: relative;
-    left: 95px;
-}
-
-.container-area span:nth-child(3) {
-    position: relative;
-    left: 195px;
-}
